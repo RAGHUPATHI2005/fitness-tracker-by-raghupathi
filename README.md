@@ -1,1 +1,2 @@
 # fitness-tracker-by-raghupathi
+This Python script is a **Streamlit-based web application** for predicting calories burned during exercise. It allows users to input parameters such as **age, BMI, duration, heart rate, body temperature, and gender**. The app uses **Random Forest Regression** to make predictions based on preloaded fitness data. Additionally, it displays similar results and general insights comparing the user's stats to the dataset. Animated progress bars enhance the user experience.
